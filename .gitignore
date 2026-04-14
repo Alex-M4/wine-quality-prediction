@@ -1,0 +1,6 @@
+# Ignore TOUT
+*
+
+# EXCEPTÉ notebook + gitignore
+!Wine_quality_ML_Final.ipynb
+!.gitignore
