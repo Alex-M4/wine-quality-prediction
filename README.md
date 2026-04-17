@@ -3,12 +3,12 @@
 ## 📌 Description du projet
 Ce projet vise à prédire la qualité du vin à partir de ses caractéristiques physico‑chimiques (acidité, pH, taux d’alcool, etc.).  
 L’objectif principal est de comparer plusieurs modèles de classification pour estimer la qualité du vin, d’abord sur 7 classes puis sur 3 classes de qualité, à partir de jeux de données issus du Wine Quality Dataset (UCI / Kaggle)
----
-## 📂 Jeux de données
+
+## 📂 Jeux de donnée
 Deux jeux de données principaux ont été utilisés :
 **Jeu de données Kaggle avec peu de data** : Données classiques de qualité du vin rouge (winequality-red.csv) avec une échelle de qualité de 3 à 8 (7 classes). Les classes sont fortement déséquilibrées (beaucoup de vins “moyens”, très peu de très mauvais / excellents).
 **Jeu de données Kaggle avec 3x plus de data** : Wine Quality dataset – Balanced Classification (taweilo). Création de 3 catégories au lieu des 7, ce qui facilite l’apprentissage des modèles de classification.
----
+
 ## 🎯 Problématique et démarche
 ### Étape 1 – 7 classes de qualité.
 Utilisation de la qualité brute (7 niveaux) comme variable cible.
