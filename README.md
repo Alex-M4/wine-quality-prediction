@@ -1,5 +1,5 @@
-# wine-quality-prediction
-Prédiction de la qualité du vin 🍷
+#Prédiction de la qualité du vin🍷  
+ 
 📌 Description du projet
 Ce projet vise à prédire la qualité du vin à partir de ses caractéristiques physico‑chimiques (acidité, pH, taux d’alcool, etc.).
 L’objectif principal est de comparer plusieurs modèles de classification pour estimer la qualité du vin, d’abord sur 7 classes puis sur 3 classes de qualité, à partir de jeux de données issus du Wine Quality Dataset (UCI / Kaggle)
